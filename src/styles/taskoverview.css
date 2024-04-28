@@ -1,0 +1,32 @@
+.overview-content {
+    padding: 10px;
+}
+
+.all-button,
+.to-do-button,
+.completed-button {
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 20px;
+}
+
+.all-button {
+    background-color: black;
+}
+
+.completed-button {
+    background-color: grey;
+}
+
+.to-do-button {
+    background-color: skyblue;
+}
+
+.task-detail p{
+    padding: 10px;
+    background-color: gainsboro;
+    border-radius: 10px;  
+}
